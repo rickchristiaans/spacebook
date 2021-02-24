@@ -6,7 +6,7 @@
   "url": "https://spacebook.app",
   "githubUrl": "https://github.com/<username>/<repository>",
   "githubBranch": "main",
-  "navigationStyle": "vertical",
+  "navigationStyle": "horizontal",
   "emoji": "💥",
   "enableSearch": true,
   "enableDarkMode": true,
